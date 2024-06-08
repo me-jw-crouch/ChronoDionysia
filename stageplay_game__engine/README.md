@@ -5,8 +5,8 @@ Not intended for public use... but, you do you fam.
 
 All rights reserved. © 2024  
 **Author:** Me JW Crouch  
-**Author Website:** [me-jw-crouch.com](https://me-jw-crouch.com)  
-**Library Website:** [games.me-jw-crouch.com/stageplay_game_engine/](https://games.me-jw-crouch.com/stageplay_game_engine/)
+**Author Website:** [me-jw-crouch.com](http://me-jw-crouch.com)  
+**Library Website:** [games.me-jw-crouch.com/stageplay_game_engine/](http://games.me-jw-crouch.com/stageplay_game_engine/)
 
 ## Overview
 
