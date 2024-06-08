@@ -1,15 +1,15 @@
-# Chrono Dionysis
+# ChronoDionysus
 
-**Chrono Dionysis** is an adventure game that blends theatre, history, and time travel. Join Alex, a passionate theatre student, and their friend Casey, a brilliant physics double major, as they embark on a time-traveling journey to retrieve lost artifacts and restore the balance of history.
+**ChronoDionysus** is an adventure game that blends theatre, history, and time travel. Join Alex, a passionate theatre student, and their friend Casey, a brilliant physics double major, as they embark on a time-traveling journey to retrieve lost artifacts and restore the balance of history.
 
 All rights reserved. © 2024  
 **Author:** Me JW Crouch  
 **Author Website:** [me-jw-crouch.com](http://me-jw-crouch.com)  
-**Game Demo (When Ready):** [Game Site](http://chrono_dionysis.me-jw-crouch.com)  
+**Game Demo (When Ready):** [Game Site](http://chronodionysus.me-jw-crouch.com)  
 
 ## Overview
 
-In **Chrono Dramatica**, players navigate through various historical periods, solving puzzles and interacting with historical figures. The game is designed to offer an immersive narrative experience, combining elements of theatre and historical adventure.
+In **ChronoDionysus**, players navigate through various historical periods, solving puzzles and interacting with historical figures. The game is designed to offer an immersive narrative experience, combining elements of theatre and historical adventure.
 
 ## Features
 
@@ -20,4 +20,4 @@ In **Chrono Dramatica**, players navigate through various historical periods, so
 
 ## Development
 
-The game is built using the **StagePlay Game Engine**, a custom engine with a unique theatre theme, designed to support various game types, animations, and digital puppet shows.
+**ChronoDionysus Demo** is built using the **StagePlay Game Engine**, a custom engine with a unique theatre theme, designed to support various game types, animations, and digital puppet shows.
