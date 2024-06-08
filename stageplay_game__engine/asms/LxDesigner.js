@@ -1,9 +1,9 @@
 class LxDesigner {
-    constructor(_width, _height, _context, _caption = null) {
+    constructor(_width, _context, _caption = null) {
         this.canvas = null;
         this.context = null;
-        this.canvasWidth = _width;
-        this.canvasHeight = _height;
+        this.canvasMargin = 400;
+        this.canvasWidth = _width - this.canvasMargin;
         this.canvasContext = _context;
         this.canvasCaption = _caption;
     }
@@ -13,7 +13,7 @@ class LxDesigner {
         this.context = this.canvas.getContext(this.canvasContext);
 
         this.canvas.width = this.canvasWidth;
-        this.canvas.height = this.canvasHeight;
+        this.canvas.height = (this.canvasWidth/3) * 2;
 
         document.body.appendChild(this.canvas);
 
