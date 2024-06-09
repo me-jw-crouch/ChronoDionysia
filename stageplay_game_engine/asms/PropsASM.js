@@ -1,8 +1,12 @@
 class PropsASM {
+    name = "PropsASM"
+    sm;
+    nextID = 0;
+    props = {}
+
     constructor(sm) {
         this.sm = sm;
-        this.props = {};
-        this.nextID = 0;
+        this.sm.logger.log("Initialized", this.name);
     }
 
     loadSceneObjects(scene) {

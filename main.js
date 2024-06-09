@@ -5,10 +5,15 @@ import StageManager from "./stageplay_game_engine/StageManager.js";
 
 // CONFIG Variables TODO: Set up GlobalConstantASM?
 const CONFIG = {
-    'canvas-margin': 300,
+    'canvas-margin': .07,
     'canvas-context': '2d',
     'canvas-caption': 'Chrono Dionysia',
+    'debug': true,
+    'force': 'square',
 }
 
-const sm = new StageManager(CONFIG);
-sm.go()
+window.addEventListener('load', (event) => {
+    const stageManager = new StageManager(CONFIG);
+    stageManager.initialize();
+    stageManager.go();
+});

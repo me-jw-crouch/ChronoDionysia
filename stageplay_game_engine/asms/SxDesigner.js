@@ -1,5 +1,5 @@
-class LxDesigner {
-    name =  "LxDesigner";
+class SxDesigner {
+    name = 'SxDesigner';
     sm;
 
     constructor(sm) {
@@ -8,4 +8,4 @@ class LxDesigner {
     }
 }
 
-export default LxDesigner;
+export default SxDesigner;
